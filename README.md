@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=jherico-john&abbreviated=true)
 
 <!--
 **jherico-john/Jherico-John** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,26 @@ Here are some ideas to get you started:
 
 # Jherico Balasa  
 **Video Editor | Graphic Designer**
+<!-- 🧑 Name & Title -->
+![Name](https://img.shields.io/badge/Jherico_Balasa-Video_Editor_&_Graphic_Designer-blueviolet)
+<!-- 🎯 Skills -->
+![Video Editing](https://img.shields.io/badge/Video_Editing-90%25-blue)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-90%25-orange)
+![Content Writing](https://img.shields.io/badge/Content_Writing-80%25-yellow)
+<!-- 🛠 Tools -->
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-used-blue)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-used-purple)
+![Canva](https://img.shields.io/badge/Canva-Pro-green)
+<!-- 💼 Roles -->
+![Role](https://img.shields.io/badge/Role-Video_Editor-blue)
+![Role](https://img.shields.io/badge/Role-Graphic_Designer-teal)
+![Role](https://img.shields.io/badge/Role-Virtual_Assistant-brightgreen)
+<!-- 🏆 Achievements -->
+![Award](https://img.shields.io/badge/Award-Film_Festival_Winner-gold)
+![Leadership](https://img.shields.io/badge/Leadership-DevComm_Chairperson-success)
+<!-- 🎓 Education -->
+![Education](https://img.shields.io/badge/BS_DevComm-CMU-blue)
+
 
 📞 +63 951 251 8441  
 ✉️ iamjhericobalasa@gmail.com  
