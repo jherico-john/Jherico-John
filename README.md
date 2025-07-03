@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 
 ---
 
+![Jherico GitHub stats](https://github-readme-stats.vercel.app/api?username=jherico-john&show_icons=true&bg_color=#1a1b27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jherico-john&langs_count=8)
+
 ## 🧑‍💼 About Me  
 Creative and detail-oriented **Video Editor** and **Graphic Designer** with a background in digital communication and visual storytelling. I bring a strategic and artistic approach to multimedia production, having supported organizational branding, promotional campaigns, and social media engagement. I’m also a reliable **Virtual Assistant**, capable of managing projects independently and delivering high-quality results under tight deadlines.
 
